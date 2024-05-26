@@ -28,6 +28,12 @@ The Pub's Pizza mobile app offers a seamless dining experience, allowing users t
 - Order Status : The Order Status Screen provides users with real-time updates on their order journey. Phase one indicates when the order is pending cashier acceptance, allowing users to cancel if needed. Phase two notifies users when their order is in the kitchen. In phase three, users receive notification that their order is on its way. Additionally, users can conveniently reorder the same items with a single click below.
 - <img src="https://github.com/YoussifTaha/Pub-s-App/assets/136083166/27eb0f42-49ec-4077-8f34-741caf5f6a73" alt="alt text" width="200"/>
 
+## Key Technologies:
+- Flutter Bloc (for state management)
+- Firebase (Firestore for backend)
+- Flutter Local Notifications
+- Hive (for local data storage)
+
 
 
 ## Installation
